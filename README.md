@@ -3,7 +3,7 @@ Proyecto E-commerce - InkaTec
 Descripción
 Este proyecto consiste en el desarrollo de una tienda virtual utilizando React. Se ha enfocado en aplicar principios de diseño responsive, componentes reutilizables y estilos visuales agradables para mejorar la experiencia del usuario.
 
-Integrantes del Grupo
+Integrantes del Grupo 4
 
 - Victor Aroon Ordinola Cano
 - Jeremy Guillermo Servan Gonzales
